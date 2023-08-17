@@ -1,0 +1,14 @@
+92345c762e1a0a7c131ef2c81ef40d7a *DESCRIPTION
+3076374110818c8993256a3955bb82cb *NAMESPACE
+324ab3b8ceba9249c260ee763cee0c46 *NEWS.md
+8fccfe5d841f8cb36cdd709ec8e17626 *R/classifications.R
+50ef596fac32f01353de76137c2d250b *R/data.R
+3c2b80c82d5f0a9eea25ea226199de6b *R/functions.R
+b7c317528eee6f63711b2c411c726f5b *README.md
+475e2355e00ae1933b1e96ae94923e47 *data/djibouti_points.rda
+a236a000905a536886d3f0b46cca50ea *man/classifications.Rd
+2edea9026bf532ca348c6aec3d8d21bb *man/djibouti_points.Rd
+a06b5774add8d354b331ac22e8d365a5 *man/osm_classify.Rd
+61d32be6c5bd5e3df83ccf52f8079be8 *man/osm_other_tags_list.Rd
+5fd18e38a137e857759c584a2568bcc0 *man/osm_tags_df.Rd
+79b993185a69804868bc9944fd3d6d82 *man/osmclass-package.Rd
